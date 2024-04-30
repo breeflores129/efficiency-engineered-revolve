@@ -24,10 +24,10 @@ The project aligns with the job requirements as it involves SQL expertise to add
 - Revolve’s data will be analyzed to pinpoint and enhance best-selling items.
 
 ## Notebooks
-- [API ETL](https://github.com/breeflores129/sql-project/notebook1): Analysis of Competitor Data
-- [API SQL Analysis](https://github.com/breeflores129/sql-project/notebook2): Trends and Popularity of Clothing Items
-- [Web Scrape ETL](https://github.com/breeflores129/sql-project/notebook3): Popularity Features of Top 100 Dresses 
-- [Web Scrape SQL Analysis](https://github.com/breeflores129/sql-project/notebook3): Trends and Popularity of Clothing Items
+- [API ETL](https://github.com/breeflores129/efficiency-engineered-revolve/blob/main/notebooks/API_ETL.ipynb): ETL of Competitor Data
+- [API SQL Analysis](https://github.com/breeflores129/efficiency-engineered-revolve/blob/main/notebooks/API_SQL_Analysis.ipynb): H&M Pricing Strategy Analysis
+- [Web Scrape ETL](https://github.com/breeflores129/efficiency-engineered-revolve/blob/main/notebooks/Web_Scrape_ETL.ipynb): Revolve Web Scrape
+- [Web Scrape SQL Analysis](https://github.com/breeflores129/efficiency-engineered-revolve/blob/main/notebooks/Web_Scrape_SQL_Analysis.ipynb): Revolve Trends in Clothing Items
 
 Each notebook includes queries and visualizations specific to their area of focus, like popularity trends or financial analysis.
 
